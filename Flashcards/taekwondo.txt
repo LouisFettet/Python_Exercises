@@ -1,0 +1,174 @@
+---> Question 1
+What is the Korean word for one?
+---> Answer
+Hahna
+
+---> Question 2
+What is the Korean word for two?
+---> Answer
+Dool
+
+---> Question 3
+What is the Korean word for three?
+---> Answer
+Seht
+
+---> Question 4
+What is the Korean word for four?
+---> Answer
+Neht
+
+---> Question 5
+What is the Korean word for five?
+---> Answer
+Dah-suht
+
+---> Question 6
+What is the Korean word for six?
+---> Answer
+Yuh-suht
+
+---> Question 7
+What is the Korean word for seven?
+---> Answer
+Ill-gope
+
+---> Question 8
+What is the Korean word for eight?
+---> Answer
+Yuh-duhl
+
+---> Question 9
+What is the Korean word for nine?
+---> Answer
+Ah-hope
+
+---> Question 10
+What is the Korean word for ten?
+---> Answer
+Yuhl
+
+---> Question 11
+What is the Korean word for low block?
+---> Answer
+Hahdan Mahki
+
+---> Question 12
+What is the Korean word for middle block?
+---> Answer
+Joongdan Mahki
+
+---> Question 13
+What is the Korean word for high block?
+---> Answer
+Sahngdan Mahki
+
+---> Question 14
+What is the Korean word for horseback stance?
+---> Answer
+Gihma Jahseh
+
+---> Question 15
+What is the Korean word for front stance?
+---> Answer
+Jung-gool Jahseh
+
+---> Question 16
+What is the Korean word for back stance?
+---> Answer
+Hoo-gool Jahseh
+
+---> Question 17
+What is the Korean word for forefist?
+---> Answer
+Jung-kwon or Joo-muhk
+
+---> Question 18
+What is the Korean word for knife hand?
+---> Answer
+Soo-doh
+
+---> Question 19
+What is the Korean word for back fist?
+---> Answer
+E-kwon
+
+---> Question 20
+What is the Korean word for spear hand?
+---> Answer
+Kwan-soo
+
+---> Question 21
+What is the Korean word for ridge hand?
+---> Answer
+Yuhk-soo-doh
+
+---> Question 22
+What is the Korean word for front kick?
+---> Answer
+Ahp Chahgi
+
+---> Question 23
+What is the Korean word for side kick?
+---> Answer
+Yuhp Chahgi
+
+---> Question 24
+What is the Korean word for round house kick?
+---> Answer
+Dohl-yuh Chahgi
+
+---> Question 25
+What is the Korean word for back kick?
+---> Answer
+Dwi-roh Chahgi
+
+---> Question 26
+What is the Korean word for free fighting?
+---> Answer
+Jah-you Dae-ryun
+
+---> Question 27
+What is the Korean word for one-step sparring?
+---> Answer
+Ill-soo-sihk Dae-ryun
+
+---> Question 28
+What is the Korean word for three-step sparring?
+---> Answer
+Sahm-soo-sihk Dae-ryun
+
+---> Question 29
+What is the Korean word for head of the studio?
+---> Answer
+Kwan-jahng Nim
+
+---> Question 30
+What is the Korean word for master instructor?
+---> Answer
+Sah-bom Nim
+
+---> Question 31
+What is the Korean word for teacher?
+---> Answer
+Suhn-saeng Nim
+
+---> Question 32
+What is the Korean word for stand at attention?
+---> Answer
+Chah Ryut
+
+---> Question 33
+What is the Korean word for ready?
+---> Answer
+Joon Bee
+
+---> Question 34
+What is the Korean word for bow?
+---> Answer
+Kyung Neh
+
+---> Question 35
+What is the Korean word for begin?
+---> Answer
+Sih Jahk

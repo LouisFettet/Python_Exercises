@@ -1,0 +1,76 @@
+---> Question 1
+What is the python interpreter printing after the following lines?
+>>> a = 2
+>>> b = 3
+>>> print(a+b)
+---> Answer
+5
+
+---> Question 2
+Which of the following is NOT a python data structure?
+a) list
+b) tuple
+c) hash-table
+d) dictionary
+---> Answer
+c
+
+---> Question 3
+What is a nested for loop?
+a) a for loop inside a for loop
+b) a one-line for loop
+c) a for loop that acts as a while loop
+---> Answer
+a
+
+---> Question 4
+Why would one use an import statement?
+a) To open and read from a file.
+b) To access individual modules not already available.
+c) To check economic statistics on overseas trade.
+---> Answer
+b
+
+---> Question 5
+What is the python interpreter printing after the following lines?
+>>> x = 10 == 20
+>>> print(type(x))
+---> Answer
+<class 'bool'>
+
+---> Question 6
+Which of the following operations would return "True"?
+a) >>> 17 % 6 == 11
+b) >>> 5 != 6
+c) >>> 20 // 4 == 5.0
+d) >>> float(34.63) == 34
+---> Answer
+b
+
+---> Question 7
+True or False:  In object-oriented programming, the first argument of a method should always be "self."
+---> Answer
+True
+
+---> Question 8
+What does the built-in str() function return?
+a) returns a street name in Guido van Rossum's hometown
+b) prints the object as is
+c) returns the object as a string
+---> Answer
+c
+
+---> Question 9
+Name the programming method used:  A user is writing a function and calls that same function within the one being written.
+---> Answer
+recursion
+
+
+---> Question 10
+Which of the following are string methods?
+a) .strip()
+b) .endswith()
+c) .isupper()
+d) all of the above
+---> Answer
+d

@@ -1,0 +1,254 @@
+---> Question 1
+What is the capital of Louisiana?
+---> Answer
+Baton Rouge
+
+---> Question 2
+What is the capital of Indiana?
+---> Answer
+Indianapolis
+
+---> Question 3
+What is the capital of Ohio?
+---> Answer
+Columbus
+
+---> Question 4
+What is the capital of Alabama?
+---> Answer
+Montgomery
+
+---> Question 5
+What is the capital of Montana?
+---> Answer
+Helena
+
+---> Question 6
+What is the capital of Colorado?
+---> Answer
+Denver
+
+---> Question 7
+What is the capital of Idaho?
+---> Answer
+Boise
+
+---> Question 8
+What is the capital of Texas?
+---> Answer
+Austin
+
+---> Question 9
+What is the capital of Massachusetts?
+---> Answer
+Boston
+
+---> Question 10
+What is the capital of New York?
+---> Answer
+Albany
+
+---> Question 11
+What is the capital of Florida?
+---> Answer
+Tallahassee
+
+---> Question 12
+What is the capital of the District of Columbia?
+---> Answer
+Washington
+
+---> Question 13
+What is the capital of New Mexico?
+---> Answer
+Santa Fe
+
+---> Question 14
+What is the capital of Tennessee?
+---> Answer
+Nashville
+
+---> Question 15
+What is the capital of New Jersey?
+---> Answer
+Trenton
+
+---> Question 16
+What is the capital of Missouri?
+---> Answer
+Jefferson
+
+---> Question 17
+What is the capital of Virginia?
+---> Answer
+Richmond
+
+---> Question 18
+What is the capital of South Dakota?
+---> Answer
+Pierre
+
+---> Question 19
+What is the capital of Pennsylvania?
+---> Answer
+Harrisburg
+
+---> Question 20
+What is the capital of Maine?
+---> Answer
+Augusta
+
+---> Question 21
+What is the capital of Rhode Island?
+---> Answer
+Providence
+
+---> Question 22
+What is the capital of Delaware?
+---> Answer
+Dover
+
+---> Question 23
+What is the capital of New Hampshire?
+---> Answer
+Concord
+
+---> Question 24
+What is the capital of Vermont? 
+---> Answer
+Montpellier
+
+---> Question 25
+What is the capital of Connecticut?
+---> Answer
+Hartford
+
+---> Question 26
+What is the capital of Kansas?
+---> Answer
+Topeka
+
+---> Question 27
+What is the capital of Minnesota?
+---> Answer
+St. Paul
+
+---> Question 28
+What is the capital of Alaska?
+---> Answer
+Juneau
+
+---> Question 29
+What is the capital of Nebraska?
+---> Answer
+Lincoln
+
+---> Question 30
+What is the capital of North Carolina?
+---> Answer
+Raleigh
+
+---> Question 31
+What is the capital of Wisconsin?
+---> Answer
+Madison
+
+---> Question 32
+What is the capital of Washington?
+---> Answer
+Olympia
+
+---> Question 33 
+What is the capital of Arizona?
+---> Answer
+Phoenix
+
+---> Question 34
+What is the capital of Michigan? 
+---> Answer
+Lancing
+
+---> Question 35
+What is the capital of Hawaii?
+---> Answer
+Honolulu
+
+---> Question 36
+What is the capital of Mississippi? 
+---> Answer
+Jackson
+
+---> Question 37
+What is the capital of Illinois?
+---> Answer
+Springfield
+
+---> Question 38
+What is the capital of South Carolina?
+---> Answer
+Columbia
+
+---> Question 39
+What is the capital of Maryland?
+---> Answer
+Annapolis
+
+---> Question 40
+What is the capital of Wyoming?
+---> Answer
+Cheyenne
+
+---> Question 41
+What is the capital of Utah?
+---> Answer
+Salt Lake City
+
+---> Question 42
+What is the capital of Georgia?
+---> Answer
+Atlanta
+
+---> Question 43
+What is the capital of North Dakota?
+---> Answer
+Bismarck
+
+---> Question 44
+What is the capital of Kentucky? 
+---> Answer
+Frankfurt
+
+---> Question 45
+What is the capital of Oregon? 
+---> Answer
+Salem
+
+---> Question 46
+What is the capital of Arkansas?
+---> Answer
+Little Rock
+
+---> Question 47
+What is the capital of Iowa?
+---> Answer
+Des Moines
+
+---> Question 48
+What is the capital of California?
+---> Answer
+Sacramento
+
+---> Question 49
+What is the capital of Oklahoma? 
+---> Answer
+Oklahoma City
+
+---> Question 50
+What is the capital of West Virginia?
+---> Answer
+Charleston
+
+---> Question 51
+What is the capital of Nevada?
+---> Answer
+Carson City
